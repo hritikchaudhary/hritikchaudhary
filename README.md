@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a software engineer with experience in Java, S
 
 Feel free to connect and collaborate to create meaningful software that makes a positive impact!
 
-Happy coding and keep pursuing your passions!
+Happy coding!
 
 
 <!--
@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[Hritik_Resume.pdf](https://github.com/hritikchaudhary/hritikchaudhary/files/13571979/Hritik_Resume.pdf)
+[](https://github.com/hritikchaudhary/hritikchaudhary/files/13571979/Hritik_Resume.pdf)
 
