@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[Hritik_SWE.pdf](https://github.com/user-attachments/files/16216205/Hritik_SWE.pdf)
+[Hritik_SWE.pdf](https://github.com/hritikchaudhary/hritikchaudhary/blob/main/Hritik_SWE.pdf)
 
