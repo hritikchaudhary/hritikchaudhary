@@ -1,15 +1,10 @@
-### Hi there! 👋
+## Hi, I'm Hritik 👋
 
-Welcome to my GitHub profile! I'm a software engineer with experience in Java, Spring, Hibernate, TypeScript, and Angular. Besides coding, I love:
+Backend engineer (**Java / Spring Boot**) going deep on **AI platform & systems** — LLM serving, agent infrastructure, and data platforms.
 
-- **🧩 Problem Solving**: I have a knack for solving complex problems, and I enjoy the dopamine rush that comes with finding innovative solutions.
-- **👨🏻‍💻 Technology**: A technology enthusiast, I'm always eager to explore new technologies and frameworks to enhance my skills.
-- **🎵 Music**: From rock to jazz, I find solace and inspiration in the captivating power of melodies.
-- **💪 Weightlifting**: When I'm not typing away at my keyboard, you can find me at the gym.
-- **🌱 Farming**: In addition to my technical expertise, I also have hands-on experience in farming. It's a rewarding and grounding endeavor.
-- **🐶 Dogs**: I absolutely adore dogs, and I have a German Shepherd named Oscar.
-
-Feel free to connect and collaborate to create meaningful software that makes a positive impact!
-
-Happy coding!
-
+- 🏗️  SDE II @ **Tesco** — distributed backend services in production
+- 🤖  Building products **end-to-end with AI in the loop**: nightly agent pipelines and a self-hosted job-search system on **Claude + Ollama**
+- 🌱  Going deep in AI-platform / backend OSS — **vLLM · Elasticsearch · Quarkus · Grafana · LangChain4j**
+- 🧰  Java · Spring Boot · Distributed systems · PostgreSQL · Docker · LLM / RAG (Ollama, Claude) · TypeScript · Python
+- 💼  Open to **Senior Backend / AI-Platform** roles — **remote or visa-sponsored**
+- 🔗  [LinkedIn](https://www.linkedin.com/in/hritikchaudhary)
